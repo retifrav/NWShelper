@@ -14,7 +14,7 @@ You can set some splitting settings in the `.config` file.
 
 #### netPath_default
 
-If application fails to fint .NET path, you can specify it there.
+If application fails to find `.NET` path, you can specify it there.
 
 #### consoleEncoding
 
@@ -23,8 +23,8 @@ Encoding for the command line output.
 3rd party
 =========
 
-The application is written in C#, WPF with Visual Studio 2013 (if that matters) and .NET 4.5.1. Those nasty bastards did all the work, I just wrote a few lines of code.
+The application is written in `C#`, `WPF` with `Visual Studio 2013` (if that matters) and `.NET 4.5.1`. Those nasty bastards did all the work, I just wrote a few lines of code.
 
-Also I used [Ookii.Dialogs](http://www.ookii.org/Software/Dialogs/) for open file/folder dialogs, because for some reasons there is no such thing as OpenDirectoryDialog in WPF.
+Also I used [Ookii.Dialogs](http://www.ookii.org/Software/Dialogs/) for open file/folder dialogs, because for some reasons there is no such thing as OpenDirectoryDialog in `WPF`.
 
 And I snatched some (all) icons from [Iconfinder](https://www.iconfinder.com/).
