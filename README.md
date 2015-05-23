@@ -1,9 +1,11 @@
-About
-=====
+NWShelper
+=========
     
 When developing windows service you have to install, start, stop and uninstall it lots of times via **InstallUtil.exe**. This application helps you get rid of that routine - you are only pushing buttons.
 
 You should only choose **.NET** version, find **.exe** for your service and set the **name** of the service itself. If you forgot it, you can look it up in your project.
+
+![NWShelper main window screenshot](/img/mainwindow.png?raw=true "NWShelper main window screenshot")
 
 Settings
 ========
